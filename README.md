@@ -1,7 +1,7 @@
 ## Implementation-Convolutional-Neural-Network-Algorithm-for-Sentiment-Analysis-Presidential-Candidates
 
 
-# This repository contains the implementation and resources for a sentiment analysis project focused on comments about the 2024 Presidential and Vice-Presidential candidates on the Mata Najwa YouTube channel. The analysis was conducted using a Convolutional Neural Network (CNN) to classify comments into three sentiment categories: positive, negative, and neutral.
+**This repository contains the implementation and resources for a sentiment analysis project focused on comments about the 2024 Presidential and Vice-Presidential candidates on the Mata Najwa YouTube channel. The analysis was conducted using a Convolutional Neural Network (CNN) to classify comments into three sentiment categories: positive, negative, and neutral.**
 
 # Table of Contents
 
